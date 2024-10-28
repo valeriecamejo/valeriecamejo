@@ -1,7 +1,7 @@
 ### Hola hola 🙋🏽‍♀️
 ### <div align="center"> Soy Valerie Camejo 👩🏽‍💻 Desarrolladora Backend 🚀</div>
 
-Soy una apasionada Desarrolladora Backend con experiencia en el diseño y desarrollo de aplicaciones eficientes y escalables. Mi enfoque se centra en utilizar lenguajes como Javascript y Golang para crear soluciones tecnológicas innovadoras. Me motiva enfrentar desafíos técnicos y trabajar en proyectos que tengan un impacto positivo. Siempre estoy en búsqueda de aprender y mejorar mis habilidades con el objetivo de seguir creciendo profesionalmente. ¡Estoy emocionada por continuar contribuyendo en el mundo del desarrollo backend y ser parte de proyectos inspiradores!
+Soy una apasionada Desarrolladora Backend con experiencia en el desarrollo de aplicaciones eficientes y escalables. Mi enfoque se centra en utilizar lenguajes como Javascript y Golang para crear soluciones tecnológicas innovadoras. Me motiva enfrentar desafíos técnicos y trabajar en proyectos que tengan un impacto positivo. Siempre estoy en búsqueda de aprender y mejorar mis habilidades con el objetivo de seguir creciendo profesionalmente. ¡Estoy emocionada por continuar contribuyendo en el mundo del desarrollo backend y ser parte de proyectos inspiradores!
 
 
 - 👩🏽‍💻 Busco colaborar siempre en equipos multidisciplinarios y colaboradores
